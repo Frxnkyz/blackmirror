@@ -1,0 +1,34 @@
+/********************************************************************************/
+/*          Style sheet for Black Mirror web site                               */
+/*          Autor: Francisco Romero Zarco                                       */
+/*          Version: 1.0                                                        */
+/*          Comment: class projejct 2023-2024                                   */
+/********************************************************************************/
+
+/* Cuando quiero uar una tiporgrafia y asegurarme de que se vera 
+correctamente, suministro tambien con la pagina el archivo de la fuente,
+que será .ttf o .otf */
+/*1.-ahora, enlazo el archivo descargado*/
+/* 2.- Utilizar el nombre de la font-family donde quiere usarlo*/
+
+
+
+
+@font-face {                        /*esto no es un selector, es un enlace*/
+    font-family: blackmirror ;
+    src: url(../fonts/FontsFree-Net-Proxima-Nova-Bold.otf
+    );}
+@font-face {font-family: textonormal;
+    src:url(../fonts/OpenSans-Regular.ttf); }
+
+
+
+
+body {margin:0;padding: 0;       /*para desactivar el espacio de separacion por defecto*/
+    background-color: #202020;
+    font-family:blackmirror;
+    font-family: textonormal;}
+
+#wrapper{background-color:#808080;
+        width:80%;             /*ancho fijado al 80%*/
+        margin:auto}           /*centrado automatico*/

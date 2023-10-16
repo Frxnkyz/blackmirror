@@ -1,0 +1,15 @@
+	ESTRUCTURA ( TIPICA) DE UNA WEB 
+
+1.- Barra de navegacion. ( Nabar)
+2.- Hero section (es un escaparate): imagen, visor , video 
+3.- Secciones intermedias (intorduccion , quienes somos, testimonios ,ofertas, contactos)
+4.- footer : contacto, redes sociales, autor barra de nav, politica de privacidad
+
+
+
+
+
+
+hay que pensar el target (es decir el objetivo principa de la paginma web)
+colaction- boton de pinchar aqui 
+card: su usa muchisimo en el diseño web
